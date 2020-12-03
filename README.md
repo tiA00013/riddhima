@@ -1,2 +1,2 @@
-# riddhima
-Riddhima First Website
+# html-Website
+This is for my students only
